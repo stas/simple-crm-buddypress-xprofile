@@ -1,6 +1,6 @@
 === Simple CRM BuddyPress Addon ===
 Contributors: sushkov
-Tags: crm, users, profile, fields, buddypress
+Tags: crm, users, profile, fields, buddypress, vivanista
 Requires at least: WordPress 3.0
 Tested up to: WordPress 3.1.1
 Stable tag: 0.1
